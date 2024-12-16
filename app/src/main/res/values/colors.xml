@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="btn_start">#439CFF</color>
+    <color name="btn_restart">#EB5183</color>
+    <color name="btn_pause">#F1FF55</color>
+</resources>
